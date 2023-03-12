@@ -1,0 +1,15 @@
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\bin\Debug\net6.0\lock.exe
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\bin\Debug\net6.0\lock.deps.json
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\bin\Debug\net6.0\lock.runtimeconfig.json
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\bin\Debug\net6.0\lock.dll
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\bin\Debug\net6.0\lock.pdb
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\obj\Debug\net6.0\lock.csproj.AssemblyReference.cache
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\obj\Debug\net6.0\lock.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\obj\Debug\net6.0\lock.AssemblyInfoInputs.cache
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\obj\Debug\net6.0\lock.AssemblyInfo.cs
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\obj\Debug\net6.0\lock.csproj.CoreCompileInputs.cache
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\obj\Debug\net6.0\lock.dll
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\obj\Debug\net6.0\refint\lock.dll
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\obj\Debug\net6.0\lock.pdb
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\obj\Debug\net6.0\lock.genruntimeconfig.cache
+E:\Tugas Kuliah\Semester 4\KPL\Praktikum\tpmodul4_1302210097\tpmodul4_1302210097\lock\lock\obj\Debug\net6.0\ref\lock.dll
